@@ -13,3 +13,5 @@ ggplot(data.frame(x = income), aes(x=x)) +
        y = "Counts") + 
   theme_minimal()
 ######
+
+### Yaqi is changing your coding!
