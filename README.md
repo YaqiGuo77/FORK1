@@ -12,4 +12,4 @@ ggplot(data.frame(x = income), aes(x=x)) +
   labs(x = "Gross income", 
        y = "Counts") + 
   theme_minimal()
-######
+# pull request exercise
